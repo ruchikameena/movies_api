@@ -1,0 +1,130 @@
+{
+  "movies": [
+    {
+      "title": "Inception",
+      "year": 2010,
+      "rating": 8.8,
+      "price": 200
+    },
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "rating": 8.7,
+      "price": 300
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "rating": 9.3,
+      "price": 400
+    },
+    {
+      "title": "The Happy",
+      "year": 1996,
+      "rating": 9.0,
+      "price": 500
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "rating": 8.6,
+      "price": 250
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.0,
+      "price": 350
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "rating": 8.9,
+      "price": 320
+    },
+    {
+      "title": "Forrest Gump",
+      "year": 1994,
+      "rating": 8.8,
+      "price": 450
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "rating": 9.2,
+      "price": 600
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "rating": 8.8,
+      "price": 280
+    },
+    {
+      "title": "Gladiator",
+      "year": 2000,
+      "rating": 8.5,
+      "price": 270
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "rating": 9.0,
+      "price": 400
+    },
+    {
+      "title": "The Departed",
+      "year": 2006,
+      "rating": 8.5,
+      "price": 300
+    },
+    {
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "rating": 8.5,
+      "price": 290
+    },
+    {
+      "title": "Goodfellas",
+      "year": 1990,
+      "rating": 8.7,
+      "price": 320
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "rating": 8.6,
+      "price": 310
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "rating": 8.6,
+      "price": 300
+    },
+    {
+      "title": "The Prestige",
+      "year": 2006,
+      "rating": 8.5,
+      "price": 270
+    },
+    {
+      "title": "The Revenant",
+      "year": 2015,
+      "rating": 8.0,
+      "price": 280
+    },
+    {
+      "title": "Whiplash",
+      "year": 2014,
+      "rating": 8.5,
+      "price": 290
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "rating": 8.4,
+      "price": 260
+    }
+  ]
+}
